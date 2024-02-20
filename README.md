@@ -69,7 +69,7 @@ All the agents will walk the talk and self-organise with Holacracy. Hence, decis
 - [TEACH](https://teachtanzania.org/): implementing agency, project coordination. Workshop and learning space. Expertise on simple technologies and circular economy 
 - [SINA](https://socialinnovationacademy.org/) (Uganda and other SINA communities): the whole project mentoring and support. International network. Expertise on empowerment process and Holacracy. 
 - [Afrien](http://www.afrien.com/): mentoring and coaching of scholars. Expertise on innovation processes, design, and development.
-- Unai: project coordination. Expertise on simple technologies and circular economy
+- [Unai](https://twitter.com/mettoddo): project coordination. Expertise on simple technologies and circular economy
 - Local and national mentors and coaches 
 - [Buni hub](https://bunihub.or.tz/): mentoring for scholars and the whole project. Expertise on innovation processes and incubation. National level network (mentors & coaches, events, business and industry connections) and funding.
 
